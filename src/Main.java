@@ -9,7 +9,9 @@ public class Main {
         System.out.println(" Singh");
         System.out.println(" Singh");
         System.out.println(" Singh");
-
+        System.out.println(" Singh");
+        System.out.println(" Singh");
+        System.out.println(" Singh");
 System.out.println("Ankush");
 System.out.println("Ankush");
 System.out.println("Ankush");
