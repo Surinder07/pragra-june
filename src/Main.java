@@ -1,5 +1,15 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
+
+        System.out.println(" Navjot");
+        System.out.println(" Navjot");
+        System.out.println(" Singh");
+        System.out.println(" Singh");
+        System.out.println(" Singh");
+        System.out.println(" Singh");
+
 System.out.println("Ankush");
 System.out.println("Ankush");
 System.out.println("Ankush");
@@ -7,9 +17,18 @@ System.out.println("Ankush");
 System.out.println("Ankush");
 System.out.println("Ankush");
 
-        System.out.println("Changes added by Surinder");
+        Scanner myObj = new Scanner(System.in);
+        System.out.println("Enter username");
+
+
 
         System.out.println("Test Conflict created by Aarthi");
+
+        System.out.println("Changes added by divyesh");
+        System.out.println("Changes added by divyesh");
+        System.out.println("Changes added by divyesh");
+        System.out.println("Changes added by divyesh");
+
     }
 }
 
